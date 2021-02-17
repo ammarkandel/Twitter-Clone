@@ -8,8 +8,7 @@ class TweetsController < ApplicationController
   end
 
   # GET /tweets/1 or /tweets/1.json
-  def show
-  end
+  def show; end
 
   # GET /tweets/new
   def new
@@ -17,8 +16,7 @@ class TweetsController < ApplicationController
   end
 
   # GET /tweets/1/edit
-  def edit
-  end
+  def edit; end
 
   # POST /tweets or /tweets.json
   def create
