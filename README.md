@@ -1,3 +1,3 @@
 # Twitter-Clone
 
-### This project to explore more about rails and devise gem
+### This project to explore about rails and devise gem
